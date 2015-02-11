@@ -1,0 +1,4 @@
+Theme name:    Sirvo
+Description:   Sirvo Theme
+Author name:   Adrian Sosa
+License:       Nah

@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"background-i",
+				"background-image"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"content",
+				"content-3"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stephaniemaxwell/sirvoblog/anchor/config/app.php",
+		"/Users/stephaniemaxwell/sirvo/.env.local.php",
+		"/Users/stephaniemaxwell/sirvoblog/themes/default/css/style.css",
+		"/Users/stephaniemaxwell/sirvoblog/anchor/config/migrations.php",
+		"/Users/stephaniemaxwell/sirvoblog/anchor/config/db.php",
+		"/Users/stephaniemaxwell/sirvoblog/index.php",
+		"/Users/stephaniemaxwell/Desktop/mailchimp-confirm-email.html",
+		"/Users/stephaniemaxwell/Dropbox/gosirvo.com:/index.html",
+		"/Users/stephaniemaxwell/Dropbox/gosirvo.com: copy/index.html",
+		"/Users/stephaniemaxwell/Dropbox/gosirvo.com: copy/ui-kit/ui-kit-header/css/style.css",
+		"/Users/stephaniemaxwell/Dropbox/gosirvo.com: copy/untitled",
+		"/Users/stephaniemaxwell/Dropbox/gosirvo.com: copy/main.css",
+		"/Users/stephaniemaxwell/Dropbox/gosirvo.com: copy/ui-kit/ui-kit-content/css/style.css",
+		"/Users/stephaniemaxwell/Dropbox/Startup Framework 2/Developer/flat-ui/bootstrap/css/bootstrap.css",
+		"/Users/stephaniemaxwell/Dropbox/ello.co/invite_requests.css",
+		"/Users/stephaniemaxwell/Dropbox/ello.co/invite_requests.js",
+		"/Users/stephaniemaxwell/Dropbox/Startup Framework 2/Developer/samples/template/template-index.html",
+		"/Users/stephaniemaxwell/Dropbox/Linecons/Linecons/FONT _ HTML _ CSS/index.html",
+		"/Users/stephaniemaxwell/Dropbox/gosirvo.com:/common-files/fonts/style.css",
+		"/Users/stephaniemaxwell/Dropbox/www.robinhood.com:/about.html",
+		"/Users/stephaniemaxwell/Dropbox/www.robinhood.com:/index.html",
+		"/Users/stephaniemaxwell/Dropbox/www.robinhood.com:/stylesheets:/style.css",
+		"/Users/stephaniemaxwell/Dropbox/www.robinhood.com:/faq.html",
+		"/Users/stephaniemaxwell/Dropbox/www.robinhood.com:/script.js",
+		"/Users/stephaniemaxwell/Dropbox/Startup Framework 2/Developer/ui-kit/ui-kit-content/css/style.css",
+		"/Users/stephaniemaxwell/Desktop/tumblr blogs/Sirvo/tumblr-original-sirvo-theme.html",
+		"/Users/stephaniemaxwell/Desktop/tumblr blogs/She-Will-Be-Loved/current-theme.html",
+		"/Users/stephaniemaxwell/Desktop/tumblr blogs/Moma-Tumblr/index.html",
+		"/SteffieMaxwell.com:/scripts/ngg_store.js",
+		"/SteffieMaxwell.com:/scripts/persist.js",
+		"/SteffieMaxwell.com:/scripts/roundtrip.js",
+		"/SteffieMaxwell.com:/scripts/store.js",
+		"/SteffieMaxwell.com:/main.min.js",
+		"/SteffieMaxwell.com:/scripts/modernizr-2.6.2.min.js",
+		"/SteffieMaxwell.com:/scripts/lax7dyv.js",
+		"/SteffieMaxwell.com:/scripts/lightbox_context.js",
+		"/SteffieMaxwell.com:/scripts/jquery.js",
+		"/SteffieMaxwell.com:/scripts/jquery.infinitescroll.js",
+		"/SteffieMaxwell.com:/scripts/jquery-migrate.min.js",
+		"/SteffieMaxwell.com:/scripts/jquery.colorbox.1.3.32.js",
+		"/SteffieMaxwell.com:/scripts/inv-tweetableText.js",
+		"/SteffieMaxwell.com:/scripts/ajax.js",
+		"/SteffieMaxwell.com:/scripts/e-201432.js",
+		"/SteffieMaxwell.com:/device-jetpack.js",
+		"/SteffieMaxwell.com:/scripts/conversion.js",
+		"/ServeUppWebsite/sirvo-blog/index.html",
+		"/ServeUppWebsite/sirvo-blog/scripts/100734388",
+		"/ServeUppWebsite/sirvo-blog/Stylesheets/css",
+		"/ServeUppWebsite/sirvo-blog/Stylesheets/css.html",
+		"/ServeUppWebsite/sirvo-blog/css",
+		"/ServeUppWebsite/sirvo-blog/colorbox.css",
+		"/ServeUppWebsite/sirvo-blog/d",
+		"/ServeUppWebsite/sirvo-blog/inv-tweetableText.css",
+		"/ServeUppWebsite/sirvo-blog/main_css.css",
+		"/ServeUppWebsite/sirvo-blog/nextgen_gallery_related_images.css",
+		"/ServeUppWebsite/sirvo-blog/screen.css",
+		"/ServeUppWebsite/sirvo-blog/subscriptions.css",
+		"/ServeUppWebsite/sirvo-blog/widgets.css",
+		"/ServeUppWebsite/sirvo-blog/scripts/ga.js",
+		"/ServeUppWebsite/sirvo-blog/scripts/LivePassModuleMain.js",
+		"/ServeUppWebsite/sirvo-blog/scripts/LivePass.js",
+		"/ServeUppWebsite/SteffieMaxwell.com/index.html",
+		"/Users/stephaniemaxwell/Desktop/My Sites/TBar/TBar Splash New/index.html",
+		"/Users/stephaniemaxwell/Desktop/untitled.html",
+		"/Users/stephaniemaxwell/Desktop/email-tuts-plus.html",
+		"/Users/stephaniemaxwell/Desktop/The TBar/Temp tbar.com site/index.html",
+		"/Users/stephaniemaxwell/Desktop/TEST Temp tbar.com/index.html",
+		"/Users/stephaniemaxwell/Desktop/Temp tbar.com site/index.html",
+		"/Users/stephaniemaxwell/Desktop/TEST Temp tbar.com/ui-kit/ui-kit-content/css/style.css",
+		"/Users/stephaniemaxwell/Desktop/TEST Temp tbar.com/send_form_email.php",
+		"/Users/stephaniemaxwell/Desktop/TEST Temp tbar.com/mail.php",
+		"/Users/stephaniemaxwell/Desktop/TEST Temp tbar.com/CSS/tbarstyle.css",
+		"/Users/stephaniemaxwell/Desktop/TEST Temp tbar.com/ui-kit/ui-kit-header/css/style.css",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework 2/Developer/ui-kit/ui-kit-header/index.html",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework 2/Developer/samples/template/template-css.html",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework 2/Developer/samples/template/less/style.less",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework 2/Developer/samples/template/template-less.html",
+		"/Users/stephaniemaxwell/Desktop/style.css",
+		"/Users/stephaniemaxwell/Desktop/TBar-landing-site-1.1/index.html",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework/Developer/common-files/css/icon-font.css",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework/Developer/ui-kit/ui-kit-crew/index.html",
+		"/Users/stephaniemaxwell/Desktop/ServeUpp-site-1.1/index.html",
+		"/Users/stephaniemaxwell/Desktop/TBar-landing-site-1.1/ui-kit/ui-kit-crew/css/style.css",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework/Developer/flat-ui/images/login/icon.png",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework/Developer/ui-kit/ui-kit-content/index.html",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework/Developer/ui-kit/ui-kit-header/index.html",
+		"/Users/stephaniemaxwell/Desktop/template-tbar.html",
+		"/Users/stephaniemaxwell/Desktop/index_tbar1.1",
+		"/Users/stephaniemaxwell/Desktop/index_serveupp1.3.html",
+		"/ServeUppWebsite/index.html",
+		"/Users/stephaniemaxwell/Desktop/Startup Framework/Developer/Less/start.less",
+		"/Users/stephaniemaxwell/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/stephaniemaxwell/Desktop/header_test.html",
+		"/Users/stephaniemaxwell/Desktop/serve_cost_estimator.py",
+		"/Users/stephaniemaxwell/Desktop/serve_cost_estimator (1).py",
+		"/Users/stephaniemaxwell/Desktop/test_serve_v_1.7.txt",
+		"/Users/stephaniemaxwell/serve_scripts/serve_cost_estimator.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"02274f",
+			"btn",
+			"btn-info",
+			"btn",
+			"02274f",
+			"brand",
+			"webkit-transition",
+			"col-sm",
+			"mail",
+			"btn-",
+			"danger",
+			"Timeful",
+			"header-11",
+			"btn",
+			"fui",
+			"video",
+			"popup video",
+			"subscribe",
+			"send",
+			"form",
+			"signup",
+			"mail.to",
+			"mailto",
+			"mail",
+			"form",
+			"mail to",
+			"mailto",
+			"form",
+			"div",
+			"image",
+			"../",
+			"wdwvt1",
+			"0",
+			"1",
+			"base_contractors",
+			"2",
+			"1",
+			"2",
+			"500",
+			"15",
+			"53",
+			"15",
+			"2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"000000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true
+}
