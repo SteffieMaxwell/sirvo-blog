@@ -1602,7 +1602,7 @@ border-top: 1px solid rgba(0,0,0,0.15);
 }
 .header-input {
   margin:1em;
-  width:auto;
+  width:30%;
   border:1px solid white;
   padding:1.25em;
   background:#F44601;
@@ -1621,12 +1621,14 @@ border-top: 1px solid rgba(0,0,0,0.15);
   .footer-img{
     float:left;
     height:50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     width:auto;
   }
 }
 footer{
-  padding:15px;
-  background:#dddddd;
+  padding:15px 15px;
+  background:#d3d3d3;
 }
   .footer-img{
     float:left;
@@ -1638,7 +1640,7 @@ footer{
   padding-right:5em;
 }
 .footer-list h4{
-  color:black;
+  color:white;
   text-align:left;
   font-style:normal;
 }
@@ -1675,10 +1677,12 @@ h2 a:hover{
   border:1px solid #f44601 !important;
   border-radius: 0px;
   margin-top:.5em;
+  margin-right: .5em;
 }
 .nav li a:hover, .nav-pills li a:hover, .nav-stacked li a:hover{
   color:white !important;
   background-color:#f44601 !important;
   border:1px solid white !important;
   margin-top:.5em;
+  margin-right: .5em;
 }
