@@ -1,23 +1,23 @@
 <footer class="row" role="contentinfo">
-	<div class="col-md-3 col-sm-12">
-		<a href="/">
-			<img class="footer-img" src="<?php echo theme_url('/img/roundlogo.png'); ?>"/ a href="http://gosirvo.com">
-			<small>&copy; Sirvo 2014<small>
-		</a>
+	<div class="col-md-6">
+			<img class="footer-img" src="<?php echo theme_url('/img/logowhite.svg'); ?>"/ a href="http://gosirvo.com">
+			<p>&copy; Sirvo 2014</p>
 	</div>
-	<center>
+	<div class="col-md-2">
 	<ul class="list-unstyled footer-list">
 		<h4>About</h4>
 		<li><a href="http://blog.gosirvo.com">Blog<a></li>
 		<li><a href="http://gosirvo.com/about">Company<a></li>
 		<li><a href="http://angel.co/sirvo">Investors<a></li>
 	</ul>
+	<div class="col-md-2">
 	<ul class="list-unstyled footer-list">
 		<h4>Support</h4>
 		<li><a href="mailto:hello@gosirvo.com">Contact<a></li>
 		<li><a href="http://sirvo.zendesk.com/hc/en-us">Knowledgebase<a></li>
 		<li><a href="http://gosirvo.com/privacy-policy">Privacy Policy<a></li>
 	</ul>
+	<div class="col-md-2">
 	<ul class="list-unstyled footer-list">
 		<h4>Social</h4>
 		<li><a href="http://twitter.com/gosirvo">Twitter<a></li>

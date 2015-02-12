@@ -40,7 +40,7 @@
                             <article>
 
                                 <a href="<?php echo article_url(); ?>"> <?php echo article_title(); ?></a>
-                                <div class="date">Written by <?php echo article_author();?> <?php echo relative_time(article_time()); ?></div>
+                                <div class="date">Written by <?php echo article_author();?> <?php echo date("l M dS", article_time()); ?></div>
                         
                                 <p><?php echo mb_strimwidth(article_markdown(), 0, 300, "...<a href='".article_url()."'>&nbsp;&nbsp;&nbsp;Continue reading</a>") ?></p>
                                     
